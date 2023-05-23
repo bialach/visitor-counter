@@ -1,0 +1,51 @@
+body {
+    background-image: url("waterfall.jpg");
+    background-size: cover;
+    font-family: Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+div {
+    max-width:50%;
+    margin: auto;
+}
+h1 {
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: gray;
+}
+
+h2 {
+    color: yellow;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+p {
+    color: white;
+    background-color: gray;
+    font-size: 15px;
+    margin: 10px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#visitor-btn {
+    background: darkred;
+}
+
+#reset-btn {
+    background: darkgreen;
+}
+
